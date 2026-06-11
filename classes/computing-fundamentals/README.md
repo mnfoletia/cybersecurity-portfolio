@@ -1,0 +1,24 @@
+\# \[Course ACS100]
+
+\*\*Term:\*\* 202605E
+
+\*\*Instructor:\*\* \[Instructor Motes]
+
+\*\*Student:\*\* \[Marc Foletia]
+
+\## Contents
+
+| Folder | Description |
+
+|--------|-------------|
+
+| artifacts/ | Work I produced during this class |
+
+| reflection/ | My reflection paper for this portfolio entry |
+
+\## What I Learned
+
+\[One or two sentences previewing the reflection — fill this in after
+
+writing your paper.]
+
