@@ -1,7 +1,7 @@
 # cybersecurity-portfolio
-Course Modules
+Course Modules.
 The following outline provides an overview of the content in this course.
-•	 Course Resources (Syllabus, Textbook, Technology, etc.)
+•	Course Resources (Syllabus, Textbook, Technology, etc.)
 •	Week 1: Foundations of Networking
 •	Week 2: Building and Configuring Networks
 •	Week 3: Securing the Network
